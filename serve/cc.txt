@@ -1,0 +1,736 @@
+Zeit für das Besondere.
+
+公司： Swarovski（施华洛世奇）
+中文翻译： 时间为特别而存在。
+Gib mir mehr.
+
+公司： O2（德国O2通信）
+中文翻译： 给我更多。
+Mit Sicherheit gut.
+
+公司： ADAC（德国汽车俱乐部）
+中文翻译： 绝对安全。
+Erfrischung pur.
+
+公司： Pepsi（百事可乐）
+中文翻译： 纯粹的清新。
+Stark in der Leistung.
+
+公司： Audi（奥迪）
+中文翻译： 强大的性能。
+Für die besten Momente im Leben.
+
+公司： Prosecco（普罗塞克酒）
+中文翻译： 生活中最美好的时刻。
+Genuss, der verbindet.
+
+公司： Milka（米尔卡巧克力）
+中文翻译： 让人连接的享受。
+Die Freiheit zu fahren.
+
+公司： Volkswagen（大众汽车）
+中文翻译： 驾驶的自由。
+Von Anfang an gut.
+
+公司： Nivea（妮维雅）
+中文翻译： 从一开始就好。
+Schnell, zuverlässig, einfach.
+
+公司： DHL（德国邮政）
+中文翻译： 快速、可靠、简便。
+Lebe deinen Traum.
+
+公司： Audi（奥迪）
+中文翻译： 活出你的梦想。
+Erfolgreich zusammenarbeiten.
+
+公司： SAP（思爱普）
+中文翻译： 成功合作。
+Mehr als nur ein Auto.
+
+公司： Porsche（保时捷）
+中文翻译： 不只是汽车。
+Begeisternde Technik.
+
+公司： Siemens（西门子）
+中文翻译： 激动人心的技术。
+Kein Weg ist zu weit.
+
+公司： Deutsche Bahn（德国铁路）
+中文翻译： 没有路程太远。
+Es gibt immer einen besseren Weg.
+
+公司： Bosch（博世）
+中文翻译： 总有一条更好的路。
+Echte Qualität.
+
+公司： Miele（美诺）
+中文翻译： 真实的质量。
+Fahr, als wäre es dein Leben.
+
+公司： BMW（宝马）
+中文翻译： 驾驶，就像它是你的生命。
+Mit voller Kraft voraus.
+
+公司： Mercedes-Benz（梅赛德斯-奔驰）
+中文翻译： 全力前进。
+Vertrauen ist gut, Kontrolle ist besser.
+
+公司： Porsche（保时捷）
+中文翻译： 信任是好的，但控制更好。
+Der Unterschied macht den Erfolg.
+
+公司： BMW（宝马）
+中文翻译： 区别成就成功。
+Verleihen Sie Ihrer Schönheit Flügel.
+
+公司： L'Oréal（欧莱雅）
+中文翻译： 给你的美丽插上翅膀。
+Fühl dich wie zu Hause.
+
+公司： IKEA（宜家）
+中文翻译： 感觉就像在家一样。
+Spür den Unterschied.
+
+公司： Porsche（保时捷）
+中文翻译： 感受不同。
+
+Macht den Unterschied.
+
+公司： Coca-Cola（可口可乐）
+中文翻译： 创造差异。
+Einsteigen, durchstarten, genießen.
+
+公司： BMW（宝马）
+中文翻译： 上车，启程，享受。
+Ein Leben in Bewegung.
+
+公司： Mercedes-Benz（梅赛德斯-奔驰）
+中文翻译： 充满动感的生活。
+Für das, was wirklich zählt.
+
+公司： Bosch（博世）
+中文翻译： 为真正重要的事。
+Entdecke das Besondere.
+
+公司： Swarovski（施华洛世奇）
+中文翻译： 发现非凡。
+Deine Freiheit. Dein Moment.
+
+公司： Audi（奥迪）
+中文翻译： 你的自由，你的时刻。
+Lebensqualität, die begeistert.
+
+公司： Miele（美诺）
+中文翻译： 激动人心的生活品质。
+Kraftvolle Innovationen.
+
+公司： Siemens（西门子）
+中文翻译： 强大的创新。
+Sei der Unterschied.
+
+公司： Adidas（阿迪达斯）
+中文翻译： 成为不同。
+Erfolgreich mit System.
+
+公司： SAP（思爱普）
+中文翻译： 用系统成功。
+Die Kunst der Technik.
+
+公司： Porsche（保时捷）
+中文翻译： 技术的艺术。
+Mehr Freude am Fahren.
+
+公司： BMW（宝马）
+中文翻译： 更多的驾驶乐趣。
+Das Leben in vollen Zügen genießen.
+
+公司： Lufthansa（德国汉莎航空）
+中文翻译： 充分享受生活。
+Leben Sie besser.
+
+公司： Nivea（妮维雅）
+中文翻译： 生活得更好。
+Fühle den Unterschied.
+
+公司： Audi（奥迪）
+中文翻译： 感受不同。
+Vertrauen, das verbindet.
+
+公司： Deutsche Bank（德意志银行）
+中文翻译： 信任，连接一切。
+Die Freiheit gehört dir.
+
+公司： Volkswagen（大众汽车）
+中文翻译： 自由属于你。
+Gönn dir etwas Gutes.
+
+公司： Lindt（瑞士莲巧克力）
+中文翻译： 给自己一点好的东西。
+Kreativität trifft Innovation.
+
+公司： SAP（思爱普）
+中文翻译： 创意遇见创新。
+Stark für die Umwelt.
+
+公司： IKEA（宜家）
+中文翻译： 强大的环保。
+Einfach besser leben.
+
+公司： Bosch（博世）
+中文翻译： 让生活更简单、更好。
+Die Perfektion der Technik.
+
+公司： Mercedes-Benz（梅赛德斯-奔驰）
+中文翻译： 技术的完美。
+Nimm dein Leben in die Hand.
+
+公司： Nike（耐克）
+中文翻译： 掌控你的生活。
+Einmalig gut.
+
+公司： Nutella（诺特拉巧克力酱）
+中文翻译： 独一无二的好。
+Verantwortung für die Zukunft.
+
+公司： BMW（宝马）
+中文翻译： 对未来的责任。
+Genießen, was zählt.
+
+公司： Coca-Cola（可口可乐）
+中文翻译： 尽享那些重要的事。
+Mach den Unterschied.
+
+公司： Adidas（阿迪达斯）
+中文翻译： 让它不同。
+Die perfekte Symbiose von Luxus und Technologie.
+
+公司： Porsche（保时捷）
+中文翻译： 奢华与技术的完美结合。
+Spürbare Qualität.
+
+公司： Miele（美诺）
+中文翻译： 可触及的质量。
+Gibt dir die Freiheit, du selbst zu sein.
+
+公司： Volkswagen（大众汽车）
+中文翻译： 给你自由，做自己。
+Einfach mal durchatmen.
+
+公司： Nescafé（雀巢咖啡）
+中文翻译： 轻松深呼吸。
+Gemeinsam stark.
+
+公司： Deutsche Bank（德意志银行）
+中文翻译： 一起更强大。
+Wo Ideen wachsen.
+
+公司： Siemens（西门子）
+中文翻译： 创意的沃土。
+Sich etwas gönnen.
+
+公司： Lindt（瑞士莲巧克力）
+中文翻译： 犒劳自己。
+Den Erfolg genießen.
+
+公司： BMW（宝马）
+中文翻译： 享受成功。
+Für das, was wirklich zählt.
+
+公司： Miele（美诺）
+中文翻译： 为真正重要的事。
+Die Kunst, richtig zu fahren.
+
+公司： Audi（奥迪）
+中文翻译： 驾驶的艺术。
+Für all die kleinen Dinge im Leben.
+
+公司： Coca-Cola（可口可乐）
+中文翻译： 生活中的一切小事。
+Entdecke neue Möglichkeiten.
+
+公司： Microsoft（微软）
+中文翻译： 探索新的可能性。
+Wenn Technik begeistert.
+
+公司： Siemens（西门子）
+中文翻译： 当技术让人兴奋。
+Der Geschmack von Freiheit.
+
+公司： Coca-Cola（可口可乐）
+中文翻译： 自由的味道。
+Leben mit Stil.
+
+公司： Audi（奥迪）
+中文翻译： 与风格同在。
+Nimm das Leben in die Hand.
+
+公司： Nike（耐克）
+中文翻译： 掌控你的生活。
+Macht den Unterschied.
+
+公司： Adidas（阿迪达斯）
+中文翻译： 创造不同。
+Mehr erleben.
+
+公司： BMW（宝马）
+中文翻译： 更多体验。
+Das Leben ist zu kurz für schlechtes Essen.
+
+公司： McDonald's（麦当劳）
+中文翻译： 生活太短，不该吃坏的食物。
+Veränderung ist der Weg zum Erfolg.
+
+公司： Volkswagen（大众汽车）
+中文翻译： 改变是成功的道路。
+Lebensqualität, die bewegt.
+
+公司： Miele（美诺）
+中文翻译： 激动人心的生活品质。
+Die beste Wahl für dein Zuhause.
+
+公司： IKEA（宜家）
+中文翻译： 你家的最佳选择。
+Mehr Leistung. Mehr Spaß.
+
+公司： BMW（宝马）
+中文翻译： 更多动力，更多乐趣。
+Entdecke die Welt mit uns.
+
+公司： Lufthansa（德国汉莎航空）
+中文翻译： 和我们一起发现世界。
+Wohlfühlen auf höchstem Niveau.
+
+公司： Porsche（保时捷）
+中文翻译： 极致舒适体验。
+Verlasse dich auf Qualität.
+
+公司： Bosch（博世）
+中文翻译： 信赖质量。
+Ein echtes Meisterwerk.
+
+公司： Audi（奥迪）
+中文翻译： 真正的杰作。
+Vertrauen ist unser Fundament.
+
+公司： Deutsche Bank（德意志银行）
+中文翻译： 信任是我们的基石。
+Fahre mit Stil.
+
+公司： Mercedes-Benz（梅赛德斯-奔驰）
+中文翻译： 与风格同行。
+Das Leben genießen.
+
+公司： Coca-Cola（可口可乐）
+中文翻译： 尽情享受生活。
+Innovation für morgen.
+
+公司： Siemens（西门子）
+中文翻译： 为明天的创新。
+Für den perfekten Start in den Tag.
+
+公司： Nescafé（雀巢咖啡）
+中文翻译： 完美的日常开始。
+Träume groß.
+- 公司： Adidas（阿迪达斯）
+- 中文翻译： 放胆做梦。
+
+Gemeinsam stark.
+- 公司： Deutsche Bank（德意志银行）
+- 中文翻译： 一起更强大。
+
+Kunst, die begeistert.
+- 公司： Porsche（保时捷）
+- 中文翻译： 激动人心的艺术。
+
+Der Weg zum Erfolg ist klar.
+- 公司： BMW（宝马）
+- 中文翻译： 成功之路清晰可见。
+
+Vertrauen und Qualität.
+- 公司： Miele（美诺）
+- 中文翻译： 信任与质量。
+
+Qualität, die bleibt.
+- 公司： Bosch（博世）
+- 中文翻译： 持久的质量。
+
+Genieße den Moment.
+- 公司： Coca-Cola（可口可乐）
+- 中文翻译： 享受这一刻。
+
+Unvergleichliche Technik.
+- 公司： Audi（奥迪）
+- 中文翻译： 无与伦比的技术。
+
+Fahr, was du liebst.
+- 公司： Porsche（保时捷）
+- 中文翻译： 驾驶你所爱的。
+
+Das Leben ist ein Abenteuer.
+- 公司： Volkswagen（大众汽车）
+- 中文翻译： 生活是一次冒险。
+
+Fühlen Sie sich wie zu Hause.
+- 公司： IKEA（宜家）
+- 中文翻译： 让你感觉像在家一样。
+
+Für das Leben gemacht.
+- 公司： Mercedes-Benz（梅赛德斯-奔驰）
+- 中文翻译： 为生活而生。
+
+Erleben Sie das Besondere.
+- 公司： Porsche（保时捷）
+- 中文翻译： 体验非凡。
+
+Die beste Wahl für dein Zuhause.
+- 公司： IKEA（宜家）
+- 中文翻译： 你家的最佳选择。
+
+Die Zukunft beginnt jetzt.
+- 公司： Siemens（西门子）
+- 中文翻译： 未来从现在开始。
+
+Sich verwöhnen lassen.
+- 公司： Lindt（瑞士莲巧克力）
+- 中文翻译： 让自己宠爱一番。
+
+Fühlen Sie sich wie ein König.
+- 公司： Mercedes-Benz（梅赛德斯-奔驰）
+- 中文翻译： 感受像国王一样。
+
+Technik, die begeistert.
+- 公司： Bosch（博世）
+- 中文翻译： 激动人心的技术。
+
+Genießen Sie den Augenblick.
+- 公司： Coca-Cola（可口可乐）
+- 中文翻译： 享受当下的时刻。
+
+Weil du es verdienst.
+- 公司： Nivea（妮维雅）
+- 中文翻译： 因为你值得。
+
+Für Menschen, die mehr wollen.
+- 公司： Audi（奥迪）
+- 中文翻译： 为那些想要更多的人。
+
+Vertrauen, das weitergeht.
+- 公司： Deutsche Bank（德意志银行）
+- 中文翻译： 持续的信任。
+
+Besser fahren mit der besten Technik.
+- 公司： Mercedes-Benz（梅赛德斯-奔驰）
+- 中文翻译： 用最好的技术更好地驾驶。
+
+Verändere die Welt.
+- 公司： Nike（耐克）
+- 中文翻译： 改变世界。
+
+Erlebe die Zukunft heute.
+- 公司： Audi（奥迪）
+- 中文翻译： 今天体验未来。
+
+Technik, die begeistert.
+- 公司： Porsche（保时捷）
+- 中文翻译： 激动人心的技术。
+
+Klarheit.
+- 公司： BMW（宝马）
+- 中文翻译： 清晰。
+
+Freiheit im Fahrzeug.
+- 公司： Volkswagen（大众汽车）
+- 中文翻译： 车辆中的自由。
+
+Es geht um mehr als nur einen guten Kaffee.
+- 公司： Nescafé（雀巢咖啡）
+- 中文翻译： 这不仅仅是好咖啡。
+
+Qualität, die man fühlt.
+- 公司： Miele（美诺）
+- 中文翻译： 触手可及的质量。
+
+Gib niemals auf.
+- 公司： Adidas（阿迪达斯）
+- 中文翻译： 永不放弃。
+
+Innovationen für dich.
+- 公司： Siemens（西门子）
+- 中文翻译： 为你带来创新。
+
+Zukunft, die begeistert.
+- 公司： BMW（宝马）
+- 中文翻译： 激动人心的未来。
+
+Bequemlichkeit, die begeistert.
+- 公司： Bosch（博世）
+- 中文翻译： 激动人心的舒适。
+
+Wo Technik und Leidenschaft zusammenkommen.
+- 公司： Porsche（保时捷）
+- 中文翻译： 技术与激情相遇的地方。
+
+Der Weg ist das Ziel.
+- 公司： Mercedes-Benz（梅赛德斯-奔驰）
+- 中文翻译： 过程即目标。
+
+Erfolg beginnt hier.
+- 公司： Deutsche Bank（德意志银行）
+- 中文翻译： 成功从这里开始。
+
+Weil du es verdienst.
+- 公司： Lindt（瑞士莲巧克力）
+- 中文翻译： 因为你值得。
+
+Das Leben ist zu kurz für schlechte Autos.
+- 公司： Porsche（保时捷）
+- 中文翻译： 生活太短，不能开差的车。
+
+Für jeden Moment im Leben.
+- 公司： Coca-Cola（可口可乐）
+- 中文翻译： 为生活中的每一个瞬间。
+
+Die beste Wahl für dein Leben.
+- 公司： Audi（奥迪）
+- 中文翻译： 为你的生活做最好的选择。
+
+Wagen Sie den Unterschied.
+- 公司： BMW（宝马）
+- 中文翻译： 敢于不同。
+
+Fühlen Sie sich zu Hause.
+- 公司： IKEA（宜家）
+- 中文翻译： 感觉像在家一样。
+
+Mehr erleben.
+- 公司： Audi（奥迪）
+- 中文翻译： 更多体验。
+
+Für die besten Momente im Leben.
+- 公司： Nescafé（雀巢咖啡）
+- 中文翻译： 为生活中的美好时刻。
+
+Fahr, was du liebst.
+- 公司： Porsche（保时捷）
+- 中文翻译： 驾驶你所爱的车。
+
+Träume groß.
+- 公司： Adidas（阿迪达斯）
+- 中文翻译： 放胆做梦。
+
+Die Freiheit zu genießen.
+- 公司： Volkswagen（大众汽车）
+- 中文翻译： 享受自由。
+
+Spür die Freiheit.
+- 公司： BMW（宝马）
+- 中文翻译： 感受自由。
+
+Verlass dich auf Qualität.
+- 公司： Bosch（博世）
+- 中文翻译： 信赖质量。
+
+Mit uns wird es besser.
+- 公司： Siemens（西门子）
+- 中文翻译： 和我们在一起，一切变得更好。
+
+Technik, die begeistert.
+- 公司： Mercedes-Benz（梅赛德斯-奔驰）
+- 中文翻译： 激动人心的技术。
+
+Für die besten Momente im Leben.
+- 公司： Coca-Cola（可口可乐）
+- 中文翻译： 为生活中最美好的时刻。
+
+Für deinen Erfolg.
+- 公司： Adidas（阿迪达斯）
+- 中文翻译： 为了你的成功。
+
+Genieße den Augenblick.
+- 公司： Nescafé（雀巢咖啡）
+- 中文翻译： 享受这一刻。
+
+Der Moment zählt.
+- 公司： Mercedes-Benz（梅赛德斯-奔驰）
+- 中文翻译： 时刻珍贵。
+
+Leidenschaft, die bewegt.
+- 公司： Porsche（保时捷）
+- 中文翻译： 激动人心的热情。
+
+Für die perfekte Fahrt.
+- 公司： BMW（宝马）
+- 中文翻译： 完美的驾驶体验。
+
+Schönheit, die begeistert.
+- 公司： Nivea（妮维雅）
+- 中文翻译： 激动人心的美丽。
+
+Macht den Unterschied.
+- 公司： Adidas（阿迪达斯）
+- 中文翻译： 创造不同。
+
+Das Leben ist zu kurz für schlechte Entscheidungen.
+- 公司： Porsche（保时捷）
+- 中文翻译： 生活太短，不能做错误的选择。
+
+Lebensfreude pur.
+- 公司： Coca-Cola（可口可乐）
+- 中文翻译： 纯粹的生活乐趣。
+
+Komm, wir machen es einfach besser.
+- 公司： Siemens（西门子）
+- 中文翻译： 来吧，我们让它变得更好。
+
+Für die besten Ideen.
+- 公司： Bosch（博世）
+- 中文翻译： 为了最好的创意。
+
+Sei die Veränderung.
+- 公司： Nike（耐克）
+- 中文翻译： 做出改变。
+
+Fahr nicht einfach, fahr mit Leidenschaft.
+- 公司： Porsche（保时捷）
+- 中文翻译： 不仅是开车，而是带着激情驾驶。
+
+Hast du einen Moment?
+- 公司： Nescafé（雀巢咖啡）
+- 中文翻译： 你有片刻时间吗？
+
+Für dein Leben gemacht.
+- 公司： Mercedes-Benz（梅赛德斯-奔驰）
+- 中文翻译： 为了你的生活而造。
+
+Erfolg durch Qualität.
+- 公司： BMW（宝马）
+- 中文翻译： 通过质量赢得成功。
+
+Mach mehr aus deinem Leben.
+- 公司： Adidas（阿迪达斯）
+- 中文翻译： 从你的生活中挖掘更多。
+
+Für ein besseres Leben.
+- 公司： Miele（美诺）
+- 中文翻译： 为更好的生活。
+
+Der Moment ist jetzt.
+- 公司： Coca-Cola（可口可乐）
+- 中文翻译： 现在就此时此刻。
+
+Innovation, die begeistert.
+- 公司： Siemens（西门子）
+- 中文翻译： 激动人心的创新。
+
+Die Freiheit, die du suchst.
+- 公司： Volkswagen（大众汽车）
+- 中文翻译： 你所追寻的自由。
+
+Besser leben, besser fahren.
+- 公司： BMW（宝马）
+- 中文翻译： 过更好的生活，驾驶更好的车。
+
+Für die, die mehr wollen.
+- 公司： Audi（奥迪）
+- 中文翻译： 为那些渴望更多的人。
+
+Bewege dich zu deinem Ziel.
+- 公司： Nike（耐克）
+- 中文翻译： 朝着你的目标迈进。
+
+Erlebe den Unterschied.
+- 公司： Porsche（保时捷）
+- 中文翻译： 体验不同。
+
+Für das Leben, das du dir wünschst.
+- 公司： Mercedes-Benz（梅赛德斯-奔驰）
+- 中文翻译： 为你渴望的生活。
+
+Die Kraft der Einfachheit.
+- 公司： Apple（苹果）
+- 中文翻译： 简单的力量。
+
+Jeder Moment zählt.
+- 公司： Coca-Cola（可口可乐）
+- 中文翻译： 每一刻都值得珍惜。
+
+Der perfekte Moment.
+- 公司： Nescafé（雀巢咖啡）
+- 中文翻译： 完美的时刻。
+
+Für die besten Fahrmomente.
+- 公司： Porsche（保时捷）
+- 中文翻译： 为最棒的驾驶时刻。
+
+Erfinde dich neu.
+- 公司： Adidas（阿迪达斯）
+- 中文翻译： 重新发掘自己。
+
+Fühl den Unterschied.
+- 公司： BMW（宝马）
+- 中文翻译： 感受不同。
+
+Besser fahren, länger leben.
+- 公司： Audi（奥迪）
+- 中文翻译： 更好的驾驶，长久的生活。
+
+Der Schlüssel zu deinem Erfolg.
+- 公司： Mercedes-Benz（梅赛德斯-奔驰）
+- 中文翻译： 你成功的钥匙。
+
+Besser als je zuvor.
+- 公司： Siemens（西门子）
+- 中文翻译： 比以往更好。
+
+Für das, was zählt.
+- 公司： Bosch（博世）
+- 中文翻译： 为了那些重要的事。
+
+Erfinde deine Welt.
+- 公司： Audi（奥迪）
+- 中文翻译： 发明你的世界。
+
+Vertrauen, das verbindet.
+- 公司： Deutsche Bank（德意志银行）
+- 中文翻译： 连接的信任。
+
+Setz neue Maßstäbe.
+- 公司： Porsche（保时捷）
+- 中文翻译： 设立新的标准。
+
+Für den Erfolg, der bleibt.
+- 公司： Bosch（博世）
+- 中文翻译： 为持久的成功。
+
+Alles ist möglich.
+- 公司： Nike（耐克）
+- 中文翻译： 一切皆有可能。
+
+Die perfekte Fahrt.
+- 公司： BMW（宝马）
+- 中文翻译： 完美的驾驶体验。
+
+Ein Gefühl von Freiheit.
+- 公司： Volkswagen（大众汽车）
+- 中文翻译： 一种自由的感觉。
+
+Vertrauen ist die Grundlage.
+- 公司： Deutsche Bank（德意志银行）
+- 中文翻译： 信任是基础。
+
+Innovation, die begeistert.
+- 公司： Mercedes-Benz（梅赛德斯-奔驰）
+- 中文翻译： 激动人心的创新。
+
+Für das Leben gemacht.
+- 公司： Audi（奥迪）
+- 中文翻译： 为生活而造。
+
+Spür die Freiheit.
+- 公司： BMW（宝马）
+- 中文翻译： 感受自由。
+
+Die besten Ideen entstehen hier.
+- 公司： Siemens（西门子）
+- 中文翻译： 最好的创意从这里开始。
